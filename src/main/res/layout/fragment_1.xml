@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/textColorSecondary"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn_y"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Yesha"
+        android:fontFamily="sans-serif-light"
+        android:clickable="true"
+        android:textColor="?android:textColorSecondary"
+        android:textSize="36sp" />
+
+</FrameLayout>
